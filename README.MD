@@ -1,4 +1,4 @@
-Temperature Analysis with NumPy
+# Temperature Analysis with NumPy
 
 This script analyzes a week's temperatures:
 
